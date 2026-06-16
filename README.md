@@ -37,3 +37,13 @@ This project is a simple rule-based chatbot developed using Python. It responds 
 ## Author
 
 Roshan Seerwani
+
+## Screenshots
+
+### Test Case 1 - Valid Chatbot Responses
+
+![Chatbot Conversation](chatbot_conversation.png.png)
+
+### Test Case 2 - Unknown Input Handling
+
+![Unknown Input](chatbot_unknown_input.png.png)
